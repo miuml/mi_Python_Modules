@@ -11,12 +11,12 @@ the directory containing your mi_ code.
 
 For example:  
 
-Project directory/
-    Modules/
-    MI Python Code/
-        <file_that_needs_module>.py
-        <file_that_needs_module>.py
-        ...
+    Project directory/
+        Modules/
+        MI Python Code/
+            <file_that_needs_module>.py
+            <file_that_needs_module>.py
+            ...
 
 If you look at some of the headers in the .py files of code that uses
 these modules, you will see that they refer to ../Modules
