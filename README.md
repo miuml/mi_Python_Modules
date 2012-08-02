@@ -10,16 +10,13 @@ These files should be in a single directory at the same level as
 the directory containing your mi_ code.
 
 For example:  
-Your project directory/
+
+Project directory/
 
     Modules/
-
     MI Python Code/
-
         <file_that_needs_module>.py
-
         <file_that_needs_module>.py
-
         ...
 
 If you look at some of the headers in the .py files of code that uses
