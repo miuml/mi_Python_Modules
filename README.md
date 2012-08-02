@@ -12,7 +12,6 @@ the directory containing your mi_ code.
 For example:  
 
 Project directory/
-
     Modules/
     MI Python Code/
         <file_that_needs_module>.py
