@@ -11,12 +11,15 @@ the directory containing your mi_ code.
 
 For example:  
 
-    Project directory/
+    Some parent dir/
         Modules/
-        MI Python Code/
-            <file_that_needs_module>.py
-            <file_that_needs_module>.py
+        mi_Command_Line_Editor/
+            miuml.py
+            Session.py
             ...
+        mi_Postgresql_Function_Code_Generator/
+            ...
+        
 
-If you look at some of the headers in the .py files of code that uses
+If you look at the headers in the .py files of code that uses
 these modules, you will see that they refer to ../Modules
